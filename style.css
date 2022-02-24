@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    font-size: 15px;
+}
+.borde {
+    width: 500px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    border-radius: 5%;
+}
+.header {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px 5px 0px;
+}
+.datos {
+    display: flex;
+}
+.fot-perf {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.imagen {
+    width: 100%;
+    padding: 0px;
+}
+.iconos {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 5px 10px;
+}
+.footer {
+    padding: 0px 10px 10px 10px;
+}
+i {
+    font-size: 20px;
+}
